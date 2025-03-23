@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.app</groupId>
-	<artifactId>spring-clean-architecture</artifactId>
+	<artifactId>javaspring-clean-architect</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>clean-architecture</name>
 	<description>clean-architecture template</description>
