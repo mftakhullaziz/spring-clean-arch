@@ -1,4 +1,4 @@
-# 🧼 Java Clean Architecture – Project Structure
+# 🧼 Spring Base Clean Architecture – Project Structure
 
 This project follows the principles of **Clean Architecture**, aiming to create a maintainable, testable, and scalable system by organizing code into well-defined, independent layers.
 
